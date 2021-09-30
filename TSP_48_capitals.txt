@@ -1,0 +1,48 @@
+0,Alabama,Montgomery,32.361538,-86.279118
+1,Arizona,Phoenix,33.448457, -112.073844
+2,Arkansas,Little Rock,34.736009,-92.331122
+3,California,Sacramento,38.555605,-121.468926
+4,Colorado,Denver,39.7391667,-104.984167
+5,Connecticut,Hartford,41.767,-72.677
+6,Delaware,Dover,39.161921,-75.526755
+7,Florida,Tallahassee,30.4518,-84.27277
+8,Georgia,Atlanta,33.76,-84.39
+9,Idaho,Boise,43.613739,-116.237651
+10,Illinois,Springfield,39.783250,-89.650373
+11,Indiana,Indianapolis,39.790942,-86.147685
+12,Iowa,Des Moines,41.590939,-93.620866
+13,Kansas,Topeka,39.04,-95.69
+14,Kentucky,Frankfort,38.197274,-84.86311
+15,Louisiana,Baton Rouge,30.45809,-91.140229
+16,Maine,Augusta,44.323535,-69.765261
+17,Maryland,Annapolis,38.972945,-76.501157	
+18,Massachusetts,Boston,42.2352,-71.0275	
+19,Michigan,Lansing,42.7335,-84.5467	
+20,Minnesota,St. Paul,44.95,-93.094
+21,Mississippi,Jackson,32.320,-90.207	
+22,Missouri,Jefferson City,38.572954,-92.189283	
+23,Montana,Helena,46.595805,-112.027031
+24,Nebraska,Lincoln,40.809868,-96.675345
+25,Nevada,Carson City,39.160949,-119.753877
+26,New Hampshire,Concord,43.220093,-71.549127
+27,New Jersey,Trenton,40.221741,-74.756138
+28,New Mexico,Santa Fe,35.667231,-105.964575
+29,New York,Albany,42.659829,-73.781339
+30,North Carolina,Raleigh,35.771,-78.638
+31,North Dakota,Bismarck,48.813343,-100.779004
+32,Ohio,Columbus,39.962245,-83.000647
+33,Oklahoma,Oklahoma City,35.482309,-97.534994
+34,Oregon,Salem,44.931109,-123.029159
+35,Pennsylvania,Harrisburg,40.269789,-76.875613
+36,Rhode Island,Providence,41.82355,-71.422132
+37,South Carolina,Columbia,34.000,-81.035
+38,South Dakota,Pierre,44.367966,-100.336378
+39,Tennessee,Nashville,36.165,-86.784
+40,Texas,Austin,30.266667,-97.75
+41,Utah,Salt Lake City,40.7547,-111.892622
+42,Vermont,Montpelier,44.26639,-72.57194
+43,Virginia,Richmond,37.54,-77.46
+44,Washington,Olympia,47.042418,-122.893077
+45,West Virginia,Charleston,38.349497,-81.633294
+46,Wisconsin,Madison,43.074722,-89.384444
+47,Wyoming,Cheyenne,41.145548,-104.802042

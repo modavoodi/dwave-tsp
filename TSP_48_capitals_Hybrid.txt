@@ -1,0 +1,49 @@
+State,City,Lat,Long
+Alabama,Montgomery,32.361538,-86.27911800000001
+Arizona,Phoenix,33.448457,-112.073844
+Arkansas,Little Rock,34.736009,-92.331122
+California,Sacramento,38.555605,-121.468926
+Colorado,Denver,39.7391667,-104.984167
+Connecticut,Hartford,41.766999999999996,-72.67699999999999
+Delaware,Dover,39.161921,-75.52675500000001
+Florida,Tallahassee,30.4518,-84.27277
+Georgia,Atlanta,33.76,-84.39
+Idaho,Boise,43.613739,-116.237651
+Illinois,Springfield,39.78325,-89.650373
+Indiana,Indianapolis,39.790942,-86.147685
+Iowa,Des Moines,41.590939,-93.620866
+Kansas,Topeka,39.04,-95.69
+Kentucky,Frankfort,38.197274,-84.86310999999999
+Louisiana,Baton Rouge,30.458090000000002,-91.140229
+Maine,Augusta,44.323535,-69.765261
+Maryland,Annapolis,38.972945,-76.50115699999999
+Massachusetts,Boston,42.2352,-71.0275
+Michigan,Lansing,42.7335,-84.5467
+Minnesota,St. Paul,44.95,-93.094
+Mississippi,Jackson,32.32,-90.20700000000001
+Missouri,Jefferson City,38.572953999999996,-92.18928299999999
+Montana,Helena,46.595805,-112.02703100000001
+Nebraska,Lincoln,40.809868,-96.675345
+Nevada,Carson City,39.160949,-119.753877
+New Hampshire,Concord,43.220093,-71.549127
+New Jersey,Trenton,40.221740999999994,-74.756138
+New Mexico,Santa Fe,35.667231,-105.964575
+New York,Albany,42.659828999999995,-73.781339
+North Carolina,Raleigh,35.771,-78.638
+North Dakota,Bismarck,48.813342999999996,-100.779004
+Ohio,Columbus,39.962245,-83.000647
+Oklahoma,Oklahoma City,35.482309,-97.534994
+Oregon,Salem,44.931109,-123.029159
+Pennsylvania,Harrisburg,40.269789,-76.875613
+Rhode Island,Providence,41.82355,-71.42213199999999
+South Carolina,Columbia,34.0,-81.035
+South Dakota,Pierre,44.367965999999996,-100.336378
+Tennessee,Nashville,36.165,-86.78399999999999
+Texas,Austin,30.266666999999998,-97.75
+Utah,Salt Lake City,40.7547,-111.892622
+Vermont,Montpelier,44.26639,-72.57194
+Virginia,Richmond,37.54,-77.46
+Washington,Olympia,47.042418,-122.893077
+West Virginia,Charleston,38.349497,-81.63329399999999
+Wisconsin,Madison,43.074721999999994,-89.38444399999999
+Wyoming,Cheyenne,41.145548,-104.802042
